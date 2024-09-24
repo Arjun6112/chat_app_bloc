@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "129176526505",
+    "project_id": "opinions-app-d7edf",
+    "storage_bucket": "opinions-app-d7edf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129176526505:android:ef8c469e83edbcd8b093b8",
+        "android_client_info": {
+          "package_name": "com.example.chat_app_bloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129176526505-4qc3po22bnfl5afkrc2vde1r6d1hkvdn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsR01OgAL1SYRdZ0uuUc7kC0rTX8C1UfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129176526505-4kk6fp3ju20ca3bsuosrdchq91e55a3e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "129176526505-n0uft8j64qb9re0nhihro0mau5uvtj9u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.opinionsApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
